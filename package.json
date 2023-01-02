@@ -2,7 +2,7 @@
   "name": "@kyberswap/interface",
   "description": "KyberSwap Interface",
   "private": true,
-  "homepage": "/",
+  "homepage": "http:///",
   "license": "GPL-3.0-or-later",
   "engines": {
     "node": "^18.12.1"
