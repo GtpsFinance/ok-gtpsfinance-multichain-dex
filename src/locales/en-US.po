@@ -301,8 +301,8 @@ msgid "Add {0} to {1}"
 msgstr "Add {0} to {1}"
 
 #: src/components/SearchModal/ImportToken.tsx
-msgid "Address"
-msgstr "Address"
+#~ msgid "Address"
+#~ msgstr "Address"
 
 #: src/pages/CreateReferral/index.tsx
 msgid "Address is not valid"
@@ -345,7 +345,6 @@ msgstr "After harvesting, your rewards will unlock linearly over the indicated t
 msgid "Aggregator"
 msgstr "Aggregator"
 
-#: src/components/SearchModal/CurrencySearch.tsx
 #: src/pages/Pools/index.tsx
 msgid "All"
 msgstr "All"
@@ -589,12 +588,12 @@ msgid "Below is a list of your affected liquidity positions"
 msgstr "Below is a list of your affected liquidity positions"
 
 #: src/components/TopTrendingSoonTokensInCurrentNetwork/index.tsx
-msgid "Best Swapping Prices and fees <0>Gtps.Finance</0> a leading dex."
-msgstr "Best Swapping Prices and fees <0>Gtps.Finance</0> a leading dex."
+#~ msgid "Best Swapping Prices and fees <0>Gtps.Finance</0> a leading dex."
+#~ msgstr "Best Swapping Prices and fees <0>Gtps.Finance</0> a leading dex."
 
 #: src/components/TopTrendingSoonTokensInCurrentNetwork/index.tsx
-msgid "Best Swapping Prices and lower fees."
-msgstr "Best Swapping Prices and lower fees."
+#~ msgid "Best Swapping Prices and lower fees."
+#~ msgstr "Best Swapping Prices and lower fees."
 
 #: src/components/FeeSelector/index.tsx
 msgid "Best for exotic pairs"
@@ -790,8 +789,8 @@ msgid "Classic Pools"
 msgstr "Classic Pools"
 
 #: src/components/SearchModal/CurrencySearch.tsx
-msgid "Clear All"
-msgstr "Clear All"
+#~ msgid "Clear All"
+#~ msgstr "Clear All"
 
 #: src/components/SearchModal/ManageTokens.tsx
 #~ msgid "Clear all"
@@ -1143,6 +1142,7 @@ msgstr "Disconnect"
 msgid "Discover"
 msgstr "Discover"
 
+#: src/components/TopTrendingSoonTokensInCurrentNetwork/index.tsx
 #: src/components/TopTrendingSoonTokensInCurrentNetwork/index.tsx
 msgid "Discover more"
 msgstr "Discover more"
@@ -1559,8 +1559,8 @@ msgid "Filter tokens by chain"
 msgstr "Filter tokens by chain"
 
 #: src/components/SearchModal/CurrencySearch.tsx
-msgid "Find a token by searching for its name or symbol or by pasting its address below<0/><1/>You can select and trade any token on KyberSwap."
-msgstr "Find a token by searching for its name or symbol or by pasting its address below<0/><1/>You can select and trade any token on KyberSwap."
+#~ msgid "Find a token by searching for its name or symbol or by pasting its address below<0/><1/>You can select and trade any token on KyberSwap."
+#~ msgstr "Find a token by searching for its name or symbol or by pasting its address below<0/><1/>You can select and trade any token on KyberSwap."
 
 #: src/pages/About/AboutKyberSwap/index.tsx
 msgid "Find out more"
@@ -1756,7 +1756,6 @@ msgstr "How to win"
 msgid "I Understand"
 msgstr "I Understand"
 
-#: src/components/SearchModal/ImportToken.tsx
 #: src/pages/AddLiquidityV2/index.tsx
 msgid "I understand"
 msgstr "I understand"
@@ -1827,8 +1826,8 @@ msgid "If {injectedName} wallet opens instead of {walletName}, please close the 
 msgstr "If {injectedName} wallet opens instead of {walletName}, please close the {injectedName} popup then follow the steps below to disable {injectedName} Wallet:"
 
 #: src/components/SearchModal/ImportRow.tsx
-msgid "Import"
-msgstr "Import"
+#~ msgid "Import"
+#~ msgstr "Import"
 
 #: src/components/NavigationTabs/index.tsx
 #: src/pages/Pool/index.tsx
@@ -1836,12 +1835,12 @@ msgid "Import Pool"
 msgstr "Import Pool"
 
 #: src/components/SearchModal/ImportToken.tsx
-msgid "Import Token"
-msgstr "Import Token"
+#~ msgid "Import Token"
+#~ msgstr "Import Token"
 
 #: src/components/SearchModal/ImportToken.tsx
-msgid "Import Tokens"
-msgstr "Import Tokens"
+#~ msgid "Import Tokens"
+#~ msgstr "Import Tokens"
 
 #: src/pages/Pool/index.tsx
 #: src/pages/Pool/index.tsx
@@ -1854,8 +1853,8 @@ msgid "Important Announcement"
 msgstr "Important Announcement"
 
 #: src/components/SearchModal/CurrencySearch.tsx
-msgid "Imported"
-msgstr "Imported"
+#~ msgid "Imported"
+#~ msgstr "Imported"
 
 #: src/hooks/useChangeNetwork.ts
 msgid "In order to use KyberSwap on {0}, you must accept the network in your wallet."
@@ -2146,7 +2145,6 @@ msgstr "Let’s get started"
 
 #: src/components/Header/index.tsx
 #: src/components/PoolList/ItemCard/index.tsx
-#: src/components/SearchModal/bridge/CurrencySearchBridge.tsx
 msgid "Liquidity"
 msgstr "Liquidity"
 
@@ -2366,8 +2364,8 @@ msgid "More information about KNC is available on:"
 msgstr "More information about KNC is available on:"
 
 #: src/components/SearchModal/bridge/CurrencySearchBridge.tsx
-msgid "Multichain doesn’t support this token yet. <0/>If you want to apply this token for cross-chain bridges on Multichain, please read more <1>here</1>"
-msgstr "Multichain doesn’t support this token yet. <0/>If you want to apply this token for cross-chain bridges on Multichain, please read more <1>here</1>"
+#~ msgid "Multichain doesn’t support this token yet. <0/>If you want to apply this token for cross-chain bridges on Multichain, please read more <1>here</1>"
+#~ msgstr "Multichain doesn’t support this token yet. <0/>If you want to apply this token for cross-chain bridges on Multichain, please read more <1>here</1>"
 
 #: src/components/YieldPools/ElasticFarmGroup/Row.tsx
 #: src/components/YieldPools/index.tsx
@@ -2508,8 +2506,8 @@ msgid "No liquidity found. Check out our <0>Pools.</0>"
 msgstr "No liquidity found. Check out our <0>Pools.</0>"
 
 #: src/components/SearchModal/CurrencySearch.tsx
-msgid "No results found."
-msgstr "No results found."
+#~ msgid "No results found."
+#~ msgstr "No results found."
 
 #: src/pages/Pool/index.tsx
 msgid "No staked liquidity found. Check out our <0>Farms.</0>"
@@ -2719,7 +2717,6 @@ msgid "Points"
 msgstr "Points"
 
 #: src/components/NavigationTabs/index.tsx
-#: src/components/SearchModal/bridge/CurrencySearchBridge.tsx
 #: src/components/YieldPools/ElasticFarmGroup/index.tsx
 msgid "Pool"
 msgstr "Pool"
@@ -2779,12 +2776,12 @@ msgid "Powered by"
 msgstr "Powered by"
 
 #: src/components/TopTrendingSoonTokensInCurrentNetwork/index.tsx
-#~ msgid "Powered by <0>TrueSight</0>, our AI prediction model"
-#~ msgstr "Powered by <0>TrueSight</0>, our AI prediction model"
+msgid "Powered by <0>TrueSight</0>, our AI prediction model"
+msgstr "Powered by <0>TrueSight</0>, our AI prediction model"
 
 #: src/components/TopTrendingSoonTokensInCurrentNetwork/index.tsx
-#~ msgid "Powered by TrueSight, our AI prediction model"
-#~ msgstr "Powered by TrueSight, our AI prediction model"
+msgid "Powered by TrueSight, our AI prediction model"
+msgstr "Powered by TrueSight, our AI prediction model"
 
 #: src/components/Settings/index.tsx
 msgid "Preferences"
@@ -3067,8 +3064,8 @@ msgstr "Search by token name or tag"
 
 #: src/components/SearchModal/bridge/CurrencySearchBridge.tsx
 #: src/components/SearchModal/CurrencySearch.tsx
-msgid "Search by token name, token symbol or address"
-msgstr "Search by token name, token symbol or address"
+#~ msgid "Search by token name, token symbol or address"
+#~ msgstr "Search by token name, token symbol or address"
 
 #: src/pages/ProAmmPool/index.tsx
 msgid "Search by token or pool address"
@@ -3109,8 +3106,6 @@ msgstr "Select a network"
 
 #: src/components/CurrencyInputPanel/CurrencyInputPanelBridge.tsx
 #: src/components/CurrencyInputPanel/index.tsx
-#: src/components/SearchModal/bridge/CurrencySearchBridge.tsx
-#: src/components/SearchModal/CurrencySearch.tsx
 #: src/pages/CreateReferral/TokensSelect.tsx
 #: src/state/swap/hooks.ts
 #: src/state/swap/useAggregator.ts
@@ -3628,8 +3623,8 @@ msgstr "This pool require {0} LP Tokens. Get the LP Tokens <0>here ↗</0>"
 #~ msgstr "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
 
 #: src/components/SearchModal/ImportToken.tsx
-msgid "This token isn’t frequently swapped. Please do your own research before trading."
-msgstr "This token isn’t frequently swapped. Please do your own research before trading."
+#~ msgid "This token isn’t frequently swapped. Please do your own research before trading."
+#~ msgstr "This token isn’t frequently swapped. Please do your own research before trading."
 
 #: src/pages/Verify/index.tsx
 msgid "This verification link has expired.<0/> Please return to your inbox to verify with the latest verification link. <1/>Or <2>resend</2> to have a new email sent to your registered address. <3/><4/><5>Contact Us</5> for further assistance"
@@ -4360,16 +4355,16 @@ msgstr "You can remove your liquidity here. When you remove liquidity (even part
 #~ msgstr "You can repeat these instructions anytime by clicking on the \"View\" button under Preferences."
 
 #: src/components/SearchModal/CurrencySearch.tsx
-msgid "You can search and select <0>any token</0> on KyberSwap"
-msgstr "You can search and select <0>any token</0> on KyberSwap"
+#~ msgid "You can search and select <0>any token</0> on KyberSwap"
+#~ msgstr "You can search and select <0>any token</0> on KyberSwap"
 
 #: src/components/SearchModal/bridge/CurrencySearchBridge.tsx
-msgid "You can select and transfer any token supported by Multichain from one chain to another"
-msgstr "You can select and transfer any token supported by Multichain from one chain to another"
+#~ msgid "You can select and transfer any token supported by Multichain from one chain to another"
+#~ msgstr "You can select and transfer any token supported by Multichain from one chain to another"
 
 #: src/components/SearchModal/bridge/CurrencySearchBridge.tsx
-msgid "You can select from one of the token pools below. Different pools may have different liquidity and fees"
-msgstr "You can select from one of the token pools below. Different pools may have different liquidity and fees"
+#~ msgid "You can select from one of the token pools below. Different pools may have different liquidity and fees"
+#~ msgstr "You can select from one of the token pools below. Different pools may have different liquidity and fees"
 
 #: src/pages/CreatePool/FeeTypeSelector.tsx
 #: src/pages/CreatePool/index.tsx
@@ -4696,8 +4691,12 @@ msgid "could be trending very soon!"
 msgstr "could be trending very soon!"
 
 #: src/pages/App.tsx
-msgid "feedback"
-msgstr "feedback"
+msgid "feed7back"
+msgstr "feed7back"
+
+#: src/pages/App.tsx
+#~ msgid "feedback"
+#~ msgstr "feedback"
 
 #: src/pages/Bridge/ComfirmBridgeModal.tsx
 msgid "from"
@@ -4768,8 +4767,8 @@ msgid "{0}"
 msgstr "{0}"
 
 #: src/components/SearchModal/CurrencySearch.tsx
-msgid "{0} Custom Tokens"
-msgstr "{0} Custom Tokens"
+#~ msgid "{0} Custom Tokens"
+#~ msgstr "{0} Custom Tokens"
 
 #: src/components/ProAmm/ProAmmFee.tsx
 #: src/components/ProAmm/ProAmmFee.tsx
