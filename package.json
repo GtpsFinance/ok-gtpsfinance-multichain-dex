@@ -178,5 +178,8 @@
   "author": "",
   "bugs": {
     "url": "https://github.com/Godsplanswap/ok-gtpsfinance-multichain-dex/issues"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
