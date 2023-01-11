@@ -1,8 +1,8 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Users\dgoma\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add react-app-rewire-styled-components --force
+  C:\Program Files\nodejs\node.exe C:\Users\dgoma\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @solana/spl-token @solana/web3.js
 
 PATH: 
-  C:\Python311\Scripts\;C:\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\TXE Components\DAL\;C:\Program Files (x86)\Intel\TXE Components\DAL\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Calibre2\;C:\Users\dgoma\AppData\Local\Microsoft\WindowsApps;;C:\Users\dgoma\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dgoma\AppData\Roaming\npm
+  C:\Python311\Scripts\;C:\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\TXE Components\DAL\;C:\Program Files (x86)\Intel\TXE Components\DAL\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Calibre2\;C:\Users\dgoma\AppData\Local\Microsoft\WindowsApps;C:\Users\dgoma\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dgoma\AppData\Roaming\npm;C:\Users\dgoma\AppData\Local\GitHubDesktop\bin
 
 Yarn version: 
   1.22.19
@@ -75,7 +75,7 @@ npm manifest:
       "@reduxjs/toolkit": "^1.9.0",
       "@sentry/react": "^7.18.0",
       "@sentry/tracing": "^7.18.0",
-      "@solana/spl-token": "0.2.0",
+      "@solana/spl-token": "0.1.8",
       "@solana/wallet-adapter-base": "~0.9.18",
       "@solana/wallet-adapter-react": "0.15.18",
       "@solana/wallet-adapter-wallets": "^0.19.5",
